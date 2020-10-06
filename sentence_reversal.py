@@ -27,4 +27,4 @@ def rev_word2(str):
     return ' '.join(reversed(words))
 
 
-print(rev_word1('hello mamacita'))
+print(rev_word2('hello mamacita'))
